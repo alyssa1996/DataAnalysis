@@ -1,4 +1,3 @@
-# DataAnalysis
 ## 분석 내용 소개
 ### [Happiness Analysis](https://github.com/alyssa1996/DataAnalysis/blob/main/Happiness%20Analysis.ipynb)
 > 이 분석은 행복지수가 높은 나라를 분석하고 어느 요인에 의해 행복지수가 달라지는 지 알아보기 위해 시작하였다.
@@ -23,7 +22,7 @@ ex_dt
 3	Usa	4
 ```
 * 이와 같은 형식은 사전의 '키'와 '값'이 하나의 행으로서 처리되고, 각 행의 열 이름을 따로 지정해주는 방식으로 사전을 DataFrame으로 변환한다.<br>
-참고 자료: https://www.delftstack.com/ko/howto/python-pandas/how-to-convert-python-dictionary-to-pandas-dataframe/
+* [참고 자료](https://www.delftstack.com/ko/howto/python-pandas/how-to-convert-python-dictionary-to-pandas-dataframe/)
 
 <br></br>
 #### #2 DataFrame 정렬 : DataFrame.sort_values()
