@@ -3,9 +3,16 @@
 > 이 분석은 행복지수가 높은 나라를 분석하고 어느 요인에 의해 행복지수가 달라지는 지 알아보기 위해 시작하였다.
 ### [South Korea Visitors Analysis](https://github.com/alyssa1996/DataAnalysis/blob/main/South%20Korea%20Vistiors.ipynb)
 > 2019년 1월부터 202년 4월까지 한국을 방문한 외국인들의 특성들을 포함한 데이터를 분석한다.
+> * 각 국가에서 온 방문객수의 월별 방문 추이 변화를 꺾은선 그래프로 시각화함
+> * 해당 기간동안 방문객이 가장 많은 나라 5개와 그 외 국가들의 비율 차이를 파이 그래프로 시각화함
 
 <br></br>
-## 분석 도구 공부 내용 정리 및 요약 
+## 분석 도구 공부 내용 정리 및 요약
+### 데이터 시각화 툴 Matplotlib 사용하기
+* [Matplotlib 위키](https://wikidocs.net/92071)
+* [꺾은선 그래프 관련 내용이 잘 정리된 블로그글](http://hleecaster.com/python-matplotlib-line-graph/)
+* [Matplotlib으로 그릴 수 있는 그래프 종류들과 구현 방식에 대한 짧은 설명들](https://dailyheumsi.tistory.com/36)
+
 ### Pandas DataFrame 사용하기
 #### #1 사전 데이터타입을 DataFrame으로 변환하기
 ```python
